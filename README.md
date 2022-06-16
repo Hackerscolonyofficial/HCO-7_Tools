@@ -1,5 +1,5 @@
 # HCO-7_Tools
-Hey, HI Guys.This is a new set of 7 Tools for you by Hackers Colony Official to learn Hacking
+Hey, HI Guys.This is a New Set of 7 Tools for you by Hackers Colony Official to learn Hacking
 Created By HCO_Team
 Channel: Hackers Coony Official
 Version:1.0.0.6
