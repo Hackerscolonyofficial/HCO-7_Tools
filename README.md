@@ -16,5 +16,5 @@ This tool is available for Termux Only
 7. Install thc-hydra
 8. Install Fsociety Toolkit
 ------------------------------------------
-00. Exit
-==========================================
+
+
