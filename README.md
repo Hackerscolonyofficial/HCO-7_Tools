@@ -16,11 +16,26 @@
 
 7.𝗽𝘆𝘁𝗵𝗼𝗻 𝗛𝗖𝗢_𝗧𝗖𝗕.𝗽𝘆
 
-𝗦𝗲𝗹𝗲𝗰𝘁 𝗮𝗻𝗱 𝘁𝘆𝗽𝗲 𝘁𝗵𝗲 𝗻𝘂𝗺𝗯𝗲𝗿 𝗮𝘀 𝗽𝗲𝗿 𝘆𝗼𝘂𝗿
-𝗰𝗵𝗼𝗶𝗰𝗲 𝗼𝗳 𝘁𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗲𝗻𝘁𝗲𝗿 𝘁𝗼𝗼𝗹 𝘄𝗶𝗹𝗹 𝗯𝗲
-𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗲𝗱 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗽𝗵𝗼𝗻𝗲.
+apt update && apt upgrade -y
 
-𝗧𝗼 𝗟𝗲𝗮𝗿𝗻 𝗛𝗮𝗰𝗸𝗶𝗻𝗴 𝗝𝗼𝗶𝗻 𝗼𝘂𝗿 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗰𝗵𝗮𝗻𝗻𝗲𝗹
-👇👇👇👇👇👇👇👇
+$ pkg install git -y
 
-https://youtube.com/@hackers_colony_tech?si=xldIC4tR8hfNz2T1
+pkg install python -y
+
+pkg install python3 -y
+
+pkg install python git -y
+
+pkg install termux-api
+
+pip install re
+
+pip install colorama
+
+$ git clone https://github.com/Hackerscolonyofficial/HCO-Bomber; 
+
+$ cd HCO-Bomber 
+
+$ chmod +x hco-bomber
+
+$ ./hco-bomber
