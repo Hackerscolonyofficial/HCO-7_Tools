@@ -2,40 +2,22 @@
 
 ##📢𝗥𝘂𝗻 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘁𝗼 𝗜𝗻𝘀𝘁𝗮𝗹𝗹 𝘁𝗵𝗲 𝗧𝗼𝗼𝗹
 
-1.𝗮𝗽𝘁 𝘂𝗽𝗱𝗮𝘁𝗲 && 𝗮𝗽𝘁 𝘂𝗽𝗴𝗿𝗮𝗱𝗲
+✅ 𝗮𝗽𝘁 𝘂𝗽𝗱𝗮𝘁𝗲 && 𝗮𝗽𝘁 𝘂𝗽𝗴𝗿𝗮𝗱𝗲
 
-2.𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗶𝘁
+✅ 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗶𝘁
 
-3.𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗽𝘆𝘁𝗵𝗼𝗻
+✅ 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗽𝘆𝘁𝗵𝗼𝗻
 
-4.𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 𝗵𝘁𝘁𝗽𝘀://𝗴𝗶𝘁𝗵𝘂𝗯.𝗰𝗼𝗺/𝗛𝗮𝗰𝗸𝗲𝗿𝘀𝗰𝗼𝗹𝗼𝗻𝘆𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹/𝗛𝗖𝗢-𝟳_𝗧𝗼𝗼𝗹𝘀.𝗴𝗶𝘁
+✅ 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 𝗵𝘁𝘁𝗽𝘀://𝗴𝗶𝘁𝗵𝘂𝗯.𝗰𝗼𝗺/𝗛𝗮𝗰𝗸𝗲𝗿𝘀𝗰𝗼𝗹𝗼𝗻𝘆𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹/𝗛𝗖𝗢-𝟳_𝗧𝗼𝗼𝗹𝘀.𝗴𝗶𝘁
 
-5.𝗰𝗱 𝗛𝗖𝗢-𝟳_𝗧𝗼𝗼𝗹𝘀
+✅ 𝗰𝗱 𝗛𝗖𝗢-𝟳_𝗧𝗼𝗼𝗹𝘀
 
-6.𝗹𝘀
+✅ 𝗹𝘀
 
-7.𝗽𝘆𝘁𝗵𝗼𝗻 𝗛𝗖𝗢_𝗧𝗖𝗕.𝗽𝘆
+✅ 𝗽𝘆𝘁𝗵𝗼𝗻 𝗛𝗖𝗢_𝗧𝗖𝗕.𝗽𝘆
 
-apt update && apt upgrade -y
+Now to use this tool you will be automatically redirected to our YouTube channel do subscribe and click on Bell icon and come back to Termux and you Will be able to use this tool for free
 
-$ pkg install git -y
+Hope & You Love the tool and for any queries or error join our Hacking our Channel 👉🏼 https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
 
-pkg install python -y
-
-pkg install python3 -y
-
-pkg install python git -y
-
-pkg install termux-api
-
-pip install re
-
-pip install colorama
-
-$ git clone https://github.com/Hackerscolonyofficial/HCO-Bomber; 
-
-$ cd HCO-Bomber 
-
-$ chmod +x hco-bomber
-
-$ ./hco-bomber
+𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼 https://chat.whatsapp.com/Ha3goS71
