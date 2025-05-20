@@ -8,7 +8,7 @@
 
 ✅ pkg python
 
-✅ git clone https://github.com/Hackerscolonyofficial/HCO-7_Tools)
+✅ git clone https://github.com/Hackerscolonyofficial/HCO-7_Tools
 
 ✅ cd HCO-7_Tools
 
