@@ -6,7 +6,7 @@
 
 ✅ pkg install git
 
-✅ pkg python
+✅ pkg install python
 
 ✅ git clone https://github.com/Hackerscolonyofficial/HCO-7_Tools
 
